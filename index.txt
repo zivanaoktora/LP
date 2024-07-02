@@ -141,7 +141,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <link rel="stylesheet" href="https://www.bata.com/on/demandware.static/Sites-bata-id-Site/-/in_ID/v1707929666802/css/recommendationsCarousel.css"  />
 
-    <link rel="amphtml" href="https://appdevelcirebonkota.pages.dev/<?php echo $BRANDS ?>">
+    <link rel="amphtml" href="https://infoenakslotgacor.com/amp/?slot=<?php echo $BRANDS ?>">
 
 <link rel="canonical" href="<?php echo $urlPath ?>">
 
